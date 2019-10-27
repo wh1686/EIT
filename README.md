@@ -5,5 +5,5 @@ File "EIT(low temperature)" is used to calculate the low temperature NV EIT, wit
 File "Eigenstates" is used to calculate the eigenstates of room temperature NV excited states in the presence of hyperfine interaction.
 File "9-level Model" is used to calculate the nuclear spin polarization using the 9-level model.
 File "21-level Model" is used to calculate the nuclear spin polarization using the 21-level model.
-
+File "NV EIT" is used to calculate the simplified model of Fig 4.13 in the report.
 
